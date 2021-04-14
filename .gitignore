@@ -1,0 +1,5 @@
+.DS_Store
+*output
+*input
+*.ipynb_checkpoints
+FreeSurferColorLUT.txt
