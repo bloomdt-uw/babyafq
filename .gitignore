@@ -1,5 +1,9 @@
 .DS_Store
 *output
 *input
+*mrtrix
 *.ipynb_checkpoints
 FreeSurferColorLUT.txt
+dHCP_Data_organization2019.pdf
+desc-drawem87_dseg.tsv
+desc-drawem9_dseg.tsv
