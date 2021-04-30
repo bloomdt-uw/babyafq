@@ -413,6 +413,7 @@ myafq = api.AFQ(
     mapping=AffMap(),
     # mapping=AffMap({"pipeline": [reg.rigid]}),
     brain_mask=MaskFile('brainmask'),
+    max_bval=1000,
     # ==== Bundle parameters ====
     bundle_info=pediatric_bundle_names,
     # ==== Compute parameters ====
